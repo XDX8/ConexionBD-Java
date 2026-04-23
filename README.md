@@ -8,7 +8,7 @@ Este proyecto es un ejercicio práctico cuyo objetivo es aprender a conectar una
 
 ## Requisitos previos
 
-- Java 25 o superior
+- Java 8 o superior
 - Maven
 - MySQL Server corriendo en `localhost:3306`
 - Base de datos llamada `gestion_usuarios` con una tabla `usuarios`
