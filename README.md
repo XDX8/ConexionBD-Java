@@ -87,7 +87,6 @@ Al iniciar la aplicación, aparece un menú con las siguientes opciones:
 - **MySQL Connector/J 8.3.0** – driver JDBC oficial de MySQL
 - **SQL (CRUD)** – sentencias `SELECT`, `INSERT`, `UPDATE` y `DELETE`
 - **PreparedStatement** – consultas parametrizadas para evitar inyección SQL
-- **Java 25**
 - **Maven** – gestión de dependencias y construcción del proyecto
 
 ## Estructura del proyecto
